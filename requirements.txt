@@ -1,6 +1,5 @@
 dataclasses-json<1.0
 epitran==1.17
-pycocotools @ git+https://github.com/jyapayne/espeak-phonemizer@master
 gruut>=2.3.0,<3.0
 numpy<2.0
 onnxruntime>=1.6,<2.0
