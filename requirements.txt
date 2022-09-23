@@ -1,6 +1,6 @@
 dataclasses-json<1.0
 epitran==1.17
-espeak-phonemizer>=1.0,<2.0
+git+https://github.com/jyapayne/espeak-phonemizer
 gruut>=2.3.0,<3.0
 numpy<2.0
 onnxruntime>=1.6,<2.0
